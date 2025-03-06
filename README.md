@@ -40,8 +40,9 @@ Mi misión es convertirme en un desarrollador Full-Stack sólido, que entienda t
 ## 📩 ¿Charlamos?  
 <br>
 Si te apasiona el desarrollo web y quieres compartir ideas, colaborar o simplemente intercambiar experiencias, aquí me puedes encontrar:  
+<br>
 
-[![Correo](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgefloreswebdev@gmail.com) jorgefloreswebdev@gmail.com
+[![Correo](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgefloreswebdev@gmail.com)   jorgefloreswebdev@gmail.com
 
 <br>
 
