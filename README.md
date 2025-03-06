@@ -13,6 +13,7 @@ Si te interesa el desarrollo web, la arquitectura de software y las mejores prá
 
 ## 🚀 Tecnologías en mi radar  
 <br>
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
