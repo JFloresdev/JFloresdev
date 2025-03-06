@@ -9,7 +9,7 @@ Estoy en plena aventura formándome como desarrollador Full-Stack, y este reposi
 
 Si te interesa el desarrollo web, la arquitectura de software y las mejores prácticas en código, bienvenido. Aquí hay cosas que pueden interesarte.
 
----
+<br>
 
 ## 🚀 Tecnologías en mi radar  
 <br>
@@ -28,13 +28,13 @@ Si te interesa el desarrollo web, la arquitectura de software y las mejores prá
 
 No lo sé todo (aún), pero cada día avanzo un paso más. Estoy formándome en estas tecnologías y aplicando lo aprendido en proyectos reales. Si hay algo que no sé, ten por seguro que lo aprenderé.
 
----
+<br>
 
 ## 🎯 Enfoque y objetivos  
 <br>
 Mi misión es convertirme en un desarrollador Full-Stack sólido, que entienda tanto el frontend como el backend, con código limpio y buenas prácticas. Estoy en ese punto donde cada proyecto me desafía, cada error me enseña y cada línea de código cuenta.  
 
----
+<br>
 
 ## 📩 ¿Charlamos?  
 <br>
@@ -42,7 +42,7 @@ Si te apasiona el desarrollo web y quieres compartir ideas, colaborar o simpleme
 
 [![Correo](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgefloreswebdev@gmail.com) jorgefloreswebdev@gmail.com
 
----
+<br>
 
 🚀 Si te gusta lo que ves, no dudes en dejar una ⭐ en mis repositorios y conectemos. ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! Nos leemos en el código. 💻🔥
 
